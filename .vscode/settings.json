@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "HackerRank/Strings",
-        "HackerRank/Data structures"
+        "HackerRank/Data structures",
+        "LeetCode"
     ]
 }
