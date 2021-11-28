@@ -86,7 +86,7 @@ class MyHashSet {
         p.next = null;
     }
     
-    /** Returns true if this set contains the specified element */
+    
     public boolean contains(int key) {
         Node p =head;
         while(p!=null){
