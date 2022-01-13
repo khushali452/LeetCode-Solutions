@@ -26,7 +26,7 @@ Constraints:
 All the integers of nums are unique.
 */
 
-//bactrackin Approach
+//bactracking Approach
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
